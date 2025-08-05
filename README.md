@@ -38,6 +38,3 @@ Replace placeholders: `{CATALOG_NAME}`, `{SCHEMA_NAME}`, `{USERNAME}` with your 
 - MLflow Model Registry access
 - DLT pipeline permissions
 - Volume creation permissions
-
----
-*Documentation minimized - verbose setup instructions removed from notebooks and README*
